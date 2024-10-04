@@ -15,7 +15,7 @@ export default function HeroSection() {
                 </h1>
                 <p
                     className='mt-4 font-normal text-base md:text-lg text-neutral-300 max-w-lg mx-auto'
-                >Dive inti our comprehensive music courses and transform your musicaljourney today. Whether you are a beginner or looking to refine your skill join us to unlock your  true potential</p>
+                >Dive into our comprehensive music courses and transform your musical journey today. Whether you are a beginner or looking to refine your skill join us to unlock your true potential</p>
                 <div className="mt-4">
                     <Link href={'/courses'}>
                         <Button
